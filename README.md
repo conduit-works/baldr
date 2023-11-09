@@ -7,7 +7,7 @@ Baldr is the Public Goods Censorship Resistance Protocol,Censorship resistance i
 ![alt text](https://raw.githubusercontent.com/conduit-works/baldr/main/img/architecture.png "Architechture")
 
 
-# Instructions
+### Instructions
 
 - Install Discord Bot : "Still in development"
 - or Join Existing Server : "https://discord.gg/HjMz8Sdz" [Conduit.works Discord]
@@ -17,14 +17,14 @@ Baldr is the Public Goods Censorship Resistance Protocol,Censorship resistance i
 
 
 
-# Discord Commands
+### Discord Commands
 
 - Etch : store 1 previous message by caller (of caller) 
 - Timeneedle : Store previous x number of messages in channel (all user)
 - Start : start recording conversation in channel until stop button in clicked
 
 
-# Techstack
+### Techstack
 Discord bot : Node js
 MEM contract : javascript
 Frontend : React js
