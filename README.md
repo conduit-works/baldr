@@ -3,7 +3,7 @@ Baldr is product build in PermaHack 2023 Hackathon
 
 Website     : https://templofbaldr.ar \
 Frontend design  : https://www.figma.com/file/2fESMm3xP4da4F17ipdnms/Untitled?type=design&node-id=0%3A1&mode=design&t=7CPncCXlzXZNMzMh-1  \
-MEM Contract : v_RDVpHFBIDpX1owrBXc59Z1-5O0BmNj8zPNwtNItnY\
+MEM Contract : v_RDVpHFBIDpX1owrBXc59Z1-5O0BmNj8zPNwtNItnY \
 Pilot Discord Server : https://discord.gg/rpmS2sXX 
 
 
