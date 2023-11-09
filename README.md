@@ -19,9 +19,9 @@ Baldr is the Public Goods Censorship Resistance Protocol,Censorship resistance i
 
 ## Discord Commands
 
-- Etch : store 1 previous message by caller (of caller) 
-- Timeneedle : Store previous x number of messages in channel (all user)
-- Start : start recording conversation in channel until stop button in clicked
+- `Etch       `: Store 1 previous message by caller (of caller) 
+- `Timeneedle `: Store previous x number of messages in channel (all user)
+- `Start      `: Start recording conversation in channel until stop button in clicked
 
 
 ## Techstack
