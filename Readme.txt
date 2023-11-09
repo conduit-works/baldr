@@ -1,4 +1,4 @@
-#Discord Commands
+# Discord Commands
 
 Etch : store 1 previous message by caller (of caller)
 [image]
@@ -8,13 +8,13 @@ start : start recording conversation in channel until stop button in clicked
 [image]
 
 
-#architechture
+# Architechture
 
 discord bot ---> arweave ---> premaweb (templofbaldr.ar)
 
 
 
-#techstack
+# Techstack
 Discord bot : Node js
 MEM contract : javascript
 Frontend : React js
@@ -29,7 +29,7 @@ Discord bot Start command:
 
 
 
-#MEM Contract:
+# MEM Contract:
 
 tnx_id : v_RDVpHFBIDpX1owrBXc59Z1-5O0BmNj8zPNwtNItnY
 
@@ -42,7 +42,7 @@ npm start
 
 
 
-plan in action:
+# Plan in action:
 
 Dicord server : https://discord.gg/rpmS2sXX
 MEM contract : v_RDVpHFBIDpX1owrBXc59Z1-5O0BmNj8zPNwtNItnY
