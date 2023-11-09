@@ -37,19 +37,19 @@ Baldr is the Public Goods Censorship Resistance Protocol,Censorship resistance i
 
 ## Setup and Development Instruction
 
-# Discord bot Setup [/Discord-bot]
+### Discord bot Setup [/Discord-bot]
 
 1. change `wallet.json` with actual arweave wallet
 2. add discord bot `api key` in `config.json`
 3. run command inside folder `node index.js`
 
-# MEM Deployment [/mem]
+### MEM Deployment [/mem]
 
 1. mem deploy --src contract.js --init-state state.json
 2. mem write --functionId [MEM contract ID] --inputs '{"key":"value"}'
 3. curl -X GET "https://api.mem.tech/api/state/:contract_addr"
 
-# Frontend Deployment [/frontend]
+### Frontend Deployment [/frontend]
 1. ...
 2. ...
 3. ...
