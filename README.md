@@ -1,3 +1,5 @@
+Baldr is product build in PermaHack 2023 Hackathon
+
 # Baldr (Beta Vesion)
 Baldr is the Public Goods Censorship Resistance Protocol,Censorship resistance is an essential aspect of maintaining freedom of expression and access to information. It ensures that individuals can freely express their opinions and ideas without fear of censorship or suppression. By promoting censorship resistance as a public good, we can protect the fundamental principles of democracy and foster an open and inclusive society.
 
@@ -5,21 +7,21 @@ Baldr is the Public Goods Censorship Resistance Protocol,Censorship resistance i
 ![alt text](https://raw.githubusercontent.com/conduit-works/baldr/main/img/architecture.png "Architechture")
 
 
+# Instructions
 
-### Discord Commands
-
-Etch : store 1 previous message by caller (of caller)
-[image]
-Timeneedle : Store previous x number of messages in channel (all user)
-[image]
-start : start recording conversation in channel until stop button in clicked
-[image]
+- Install Discord Bot : "Still in development"
+- or Join Existing Server : "https://discord.gg/HjMz8Sdz" [Conduit.works Discord]
+- use Dicord Commands
+- visit https://templofbaldr.ar
+- search your username to see blockchain stored conversation
 
 
-# Architechture
 
-![alt tect](https://raw.githubusercontent.com/conduit-works/baldr/main/img/architecture.png "Architechture")
+# Discord Commands
 
+- Etch : store 1 previous message by caller (of caller) 
+- Timeneedle : Store previous x number of messages in channel (all user)
+- Start : start recording conversation in channel until stop button in clicked
 
 
 # Techstack
