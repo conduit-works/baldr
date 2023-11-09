@@ -1,8 +1,9 @@
-# Baldr
+# Baldr (Beta Vesion)
 Baldr is the Public Goods Censorship Resistance Protocol 
 
+### Architechture
+![alt text](https://raw.githubusercontent.com/conduit-works/baldr/main/img/architecture.png "Architechture")
 
-# beta version
 
 
 # Discord Commands
