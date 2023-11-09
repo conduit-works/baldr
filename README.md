@@ -3,28 +3,28 @@ Baldr is product build in PermaHack 2023 Hackathon
 # Baldr (Beta Vesion)
 Baldr is the Public Goods Censorship Resistance Protocol,Censorship resistance is an essential aspect of maintaining freedom of expression and access to information. It ensures that individuals can freely express their opinions and ideas without fear of censorship or suppression. By promoting censorship resistance as a public good, we can protect the fundamental principles of democracy and foster an open and inclusive society.
 
-### Architechture
+## Architechture
 ![alt text](https://raw.githubusercontent.com/conduit-works/baldr/main/img/architecture.png "Architechture")
 
 
-### Instructions
+## Instructions
 
-- Install Discord Bot : "Still in development"
-- or Join Existing Server : "https://discord.gg/HjMz8Sdz" [Conduit.works Discord]
-- use [Discords Command](https://github.com/conduit-works/baldr/tree/main#discord-commands)
-- visit https://templofbaldr.ar
-- search your username to see blockchain stored conversation
+1. Install Discord Bot : "Still in development"
+2. or Join Existing Server : "https://discord.gg/HjMz8Sdz" [Conduit.works Discord]
+3. use [Discords Command](https://github.com/conduit-works/baldr/tree/main#discord-commands)
+4. visit https://templofbaldr.ar
+5. search your username to see blockchain stored conversation
 
 
 
-### Discord Commands
+## Discord Commands
 
 - Etch : store 1 previous message by caller (of caller) 
 - Timeneedle : Store previous x number of messages in channel (all user)
 - Start : start recording conversation in channel until stop button in clicked
 
 
-### Techstack
+## Techstack
 Discord bot : Node js
 MEM contract : javascript
 Frontend : React js
@@ -39,7 +39,7 @@ Discord bot Start command:
 
 
 
-# MEM Contract:
+## MEM Contract:
 
 tnx_id : v_RDVpHFBIDpX1owrBXc59Z1-5O0BmNj8zPNwtNItnY
 
@@ -52,13 +52,13 @@ npm start
 
 
 
-# Plan in action:
+## Plan in action:
 
 Dicord server : https://discord.gg/rpmS2sXX
 MEM contract : v_RDVpHFBIDpX1owrBXc59Z1-5O0BmNj8zPNwtNItnY
 Frontend : templofbaldr.ar
 
-# Future scope
+## Future scope
 
 Encyption ondata with a key for private discussion
 
