@@ -1,3 +1,7 @@
+# Baldr
+Baldr is the Public Goods Censorship Resistance Protocol 
+
+
 # beta version
 
 
