@@ -1,0 +1,9 @@
+{
+  "tnxs": {},
+  "publicFunctions": {
+    "store": [
+      "username",
+      "tnxid"
+    ]
+  }
+}
