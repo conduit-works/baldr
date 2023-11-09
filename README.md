@@ -13,8 +13,8 @@ start : start recording conversation in channel until stop button in clicked
 
 # Architechture
 
-discord bot ---> arweave ---> premaweb (templofbaldr.ar)
-[image]
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Architechture")
+
 
 
 # Techstack
