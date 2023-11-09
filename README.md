@@ -48,29 +48,9 @@ Discord bot Setup:
 Discord bot Start command: 
 "node index.js"
 
-
-
-## MEM Contract:
-
-tnx_id : v_RDVpHFBIDpX1owrBXc59Z1-5O0BmNj8zPNwtNItnY
-
-Read state :
-curl -X GET "https://api.mem.tech/api/state/v_RDVpHFBIDpX1owrBXc59Z1-5O0BmNj8zPNwtNItnY"
-
-#Front-end:
-
-npm start
-
-
-
-## Plan in action:
-
-Dicord server : https://discord.gg/rpmS2sXX
-MEM contract : v_RDVpHFBIDpX1owrBXc59Z1-5O0BmNj8zPNwtNItnY
-Frontend : templofbaldr.ar
-
 ## Future scope
 
-Encyption ondata with a key for private discussion
+- Encyption on data with a key for private discussion
+    - discord [input key] (encyption) ----> arweave ---->  templofbalr.ar [input] (decryption to show chat)
 
-dicord[input key] (encyption) ----> arweave ---->  templofbalr.ar [input] (decryption to show chat)
+- Platform Expansion with forum and social media's (telegram, twitter)
