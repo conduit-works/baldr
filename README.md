@@ -11,7 +11,7 @@ Baldr is the Public Goods Censorship Resistance Protocol,Censorship resistance i
 
 - Install Discord Bot : "Still in development"
 - or Join Existing Server : "https://discord.gg/HjMz8Sdz" [Conduit.works Discord]
-- use Dicord Commands
+- use [Discords Command](https://github.com/conduit-works/baldr/tree/main#discord-commands)
 - visit https://templofbaldr.ar
 - search your username to see blockchain stored conversation
 
