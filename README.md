@@ -1,12 +1,12 @@
 # Baldr (Beta Vesion)
-Baldr is the Public Goods Censorship Resistance Protocol 
+Baldr is the Public Goods Censorship Resistance Protocol,Censorship resistance is an essential aspect of maintaining freedom of expression and access to information. It ensures that individuals can freely express their opinions and ideas without fear of censorship or suppression. By promoting censorship resistance as a public good, we can protect the fundamental principles of democracy and foster an open and inclusive society.
 
 ### Architechture
 ![alt text](https://raw.githubusercontent.com/conduit-works/baldr/main/img/architecture.png "Architechture")
 
 
 
-# Discord Commands
+### Discord Commands
 
 Etch : store 1 previous message by caller (of caller)
 [image]
