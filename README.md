@@ -35,18 +35,34 @@ Baldr is the Public Goods Censorship Resistance Protocol,Censorship resistance i
 - `/Start      `: Start recording conversation in channel until stop button in clicked
 
 
+## Setup and Development Instruction
+
+# Discord bot Setup [/Discord-bot]
+
+1. change `wallet.json` with actual arweave wallet
+2. add discord bot `api key` in `config.json`
+3. run command inside folder `node index.js`
+
+# MEM Deployment [/mem]
+
+1. mem deploy --src contract.js --init-state state.json
+2. mem write --functionId [MEM contract ID] --inputs '{"key":"value"}'
+3. curl -X GET "https://api.mem.tech/api/state/:contract_addr"
+
+# Frontend Deployment [/frontend]
+1. ...
+2. ...
+3. ...
+
 ## Techstack
-Discord bot : Node js
-MEM contract : javascript
-Frontend : React js
 
-#Setup and Start command
-Discord bot Setup:
-1> change wallet.json with actuall arweave wallet
-2> add discord bot api key in config.json
+| Instrument          | Framework     | Dependency                    |
+| ------------------- |:-------------:| -----------------------------:|
+| Discord Bot         | Node JS       | arweave-js, discord.js, axios |
+| Smart Contract      | Javascript    |                           MEM |
+| frontend            | React JS      |                         axios |
 
-Discord bot Start command: 
-"node index.js"
+
 
 ## Future scope
 
