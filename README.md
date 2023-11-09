@@ -13,7 +13,7 @@ start : start recording conversation in channel until stop button in clicked
 
 # Architechture
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Architechture")
+![alt text](https://raw.githubusercontent.com/conduit-works/baldr/main/img/architecture.png "Architechture")
 
 
 
