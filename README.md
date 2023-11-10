@@ -11,6 +11,11 @@ MEM Contract : v_RDVpHFBIDpX1owrBXc59Z1-5O0BmNj8zPNwtNItnY \
 \
 Pilot Discord Server : https://discord.gg/rpmS2sXX 
 
+**Hackathon Submission Video**
+
+
+https://github.com/conduit-works/baldr/assets/150352117/7704b5e4-a1a5-43bc-b68f-36f1084375b9
+
 
 
 ## Baldr (Beta Vesion)
