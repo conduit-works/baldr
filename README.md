@@ -1,7 +1,7 @@
 Baldr is product build in PermaHack 2023 Hackathon
 
 
-Website     : https://templofbaldr.ar \
+Website     : http://templofbaldr.arweave.gg/ \
 \
 Frontend design  : https://www.figma.com/file/2fESMm3xP4da4F17ipdnms/Untitled?type=design&node-id=0%3A1&mode=design&t=7CPncCXlzXZNMzMh-1  \
 \
@@ -23,7 +23,7 @@ Baldr is the Public Goods Censorship Resistance Protocol,Built on Arwearve Block
 
 1. Join Existing Server : "https://discord.gg/HjMz8Sdz" [Conduit.works Discord]
 2. use [Discords Command](https://github.com/conduit-works/baldr/tree/main#discord-commands)
-3. visit https://templofbaldr.ar
+3. visit http://templofbaldr.arweave.gg/
 4. search your username to see blockchain stored conversation
 
 
