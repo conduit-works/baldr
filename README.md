@@ -37,8 +37,8 @@ Baldr is the Public Goods Censorship Resistance Protocol,Built on Arwearve Block
 
 ## Setup and Development Instruction
 
-1. https://github.com/conduit-works/baldr.git
-2. cd baldr
+1. `git clone https://github.com/conduit-works/baldr.git`
+2. `cd baldr`
 
 ### Discord bot Setup [/Discord-bot]
 1. `npm install axios`
