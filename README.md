@@ -38,7 +38,7 @@ Baldr is the Public Goods Censorship Resistance Protocol,Built on Arwearve Block
 ## Setup and Development Instruction
 
 ### Discord bot Setup [/Discord-bot]
-
+1. `npm install axios`
 1. change `wallet.json` with actual arweave wallet
 2. add discord bot `api key` in `config.json`
 3. run command inside folder `node index.js`
