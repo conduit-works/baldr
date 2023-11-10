@@ -1,6 +1,7 @@
 Baldr is product build in PermaHack 2023 Hackathon
 
-[![Demo](https://youtu.be/W8kQuZiGZ1A)
+[![Watch the video](https://logowik.com/content/uploads/images/discord8706.jpg)](https://youtu.be/W8kQuZiGZ1A)
+
 
 Website     : https://pc2kmcarscfrqxvfsfafnk4fr6c6jd7nixocj5pd3wszvixlclqq.arweave.net/eLSmCBGQixhepZFAVquFj4Xkj-1F3CT1492lmqLrEuE/ \
 \
