@@ -22,7 +22,10 @@ https://github.com/conduit-works/baldr/assets/150352117/7704b5e4-a1a5-43bc-b68f-
 Baldr is the Public Goods Censorship Resistance tool,Built on Arwearve Blockchain as intermediatry platform between discord (digital platforms of human exchange) and permanent storage. 
 
 **Inspiration**:
-at the moment, in digital ecosystems, freedom of expression and immutability of that franchise, are rights left to the mercy of an arbitrary centre. it is not that you  be beyond reproach in a digital conclave, but simply that the truth of your words, may /etch in eternity- especially if you are doing it at the risk of exile ! 
+at the moment, in digital ecosystems, freedom of expression and immutability of that franchise, are rights left to the mercy of an arbitrary centre. it is not that you  be beyond reproach in a digital conclave, but simply that the truth of your words, may /etch in eternity- especially if you are doing it at the risk of exile !
+
+![inspiration](https://github.com/conduit-works/baldr/assets/150352117/8b0e4781-6445-4bdb-a441-95ea419122ff)
+
 
  **abstract**:
  
@@ -87,6 +90,7 @@ for trust to evolve in digital ecosystems, the immutability of certain human val
 
 ![2](https://github.com/conduit-works/baldr/assets/150352117/517ed889-8b84-426a-b413-0cfbf97124f0)
 
+![3](https://github.com/conduit-works/baldr/assets/150352117/e941d1f8-0598-4245-bcbc-024c6bb5e7c2)
 
 
 
