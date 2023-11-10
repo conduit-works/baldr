@@ -14,14 +14,23 @@ Pilot Discord Server : https://discord.gg/rpmS2sXX
 
 
 ## Baldr (Beta Vesion)
-Baldr is the Public Goods Censorship Resistance Protocol,Built on Arwearve Blockchain as intermediatry platform between social media and permanent storage, Censorship resistance is an essential aspect of maintaining freedom of expression and access to information. It ensures that individuals can freely express their opinions and ideas without fear of censorship or suppression. By promoting censorship resistance as a public good, we can protect the fundamental principles of democracy and foster an open and inclusive society.
+Baldr is the Public Goods Censorship Resistance tool,Built on Arwearve Blockchain as intermediatry platform between discord (digital platforms of human exchange) and permanent storage. 
 
-## Architechture
+**Inspiration**:
+ at the moment, in digital ecosystems, freedom of expression and immutability of that franchise, are rights left to the mercy of an arbitrary centre. it is not that you  be beyond reproach in a digital conclave, but simply that the truth of your words, may /etch in eternity- especially if you are doing it at the risk of exile ! 
+
+ **abstract**:
+ 
+for trust to evolve in digital ecosystems, the immutability of certain human values are fundamental.  there is a social contract between a autonomous agent and a discord server. but if the #discordarchitect breaks that contract, the agent has no refuge, no reproach and eventually no existence. 
+
+**baldr** is a **#discordbot** that records social engagement to **permastore**
+
+## **Architechture**
 ![alt text](https://raw.githubusercontent.com/conduit-works/baldr/main/img/architecture.png "Architechture")
 
 ![alt text2](https://raw.githubusercontent.com/conduit-works/baldr/main/img/view.jpg "view")
 
-## Instructions
+## **Instructions**
 
 1. Join Existing Server : "https://discord.gg/HjMz8Sdz" [Conduit.works Discord]
 2. use [Discords Command](https://github.com/conduit-works/baldr/tree/main#discord-commands)
@@ -30,9 +39,9 @@ Baldr is the Public Goods Censorship Resistance Protocol,Built on Arwearve Block
 
 
 
-## Discord Commands
+## **Discord Commands**
 
-- `/etch       `: Store 1 previous message by caller (of caller) 
+- `/etch       `: Store 1 previous message by caller 
 - `/timeneedle `: Store previous x number of messages in channel (all user)
 - `/start      `: Start recording conversation in channel until stop button in clicked
 
@@ -65,6 +74,13 @@ Baldr is the Public Goods Censorship Resistance Protocol,Built on Arwearve Block
 | Smart Contract      | Javascript    |                           MEM |
 | frontend            | React JS      |                         axios |
 
+**Ui Design** (not finished):
+
+![1](https://github.com/conduit-works/baldr/assets/150352117/e5bd9720-1088-4b82-9394-1fb229d844f9)
+
+![2](https://github.com/conduit-works/baldr/assets/150352117/517ed889-8b84-426a-b413-0cfbf97124f0)
+
+![3](https://github.com/conduit-works/baldr/assets/150352117/eab15819-a424-4dbe-92af-918932079055)
 
 
 ## Future scope
@@ -72,4 +88,4 @@ Baldr is the Public Goods Censorship Resistance Protocol,Built on Arwearve Block
 - Encyption on data with a key for private discussion
     - discord [input key] (encyption) ----> arweave ---->  templofbalr.ar [input] (decryption to show chat)
 
-- Platform Expansion with forum and social media's (telegram, twitter)
+- Platform Expansion with discourse (forum) and the rest of digital social platforms (telegram, twitter)
