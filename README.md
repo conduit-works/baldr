@@ -17,7 +17,7 @@ Pilot Discord Server : https://discord.gg/rpmS2sXX
 Baldr is the Public Goods Censorship Resistance tool,Built on Arwearve Blockchain as intermediatry platform between discord (digital platforms of human exchange) and permanent storage. 
 
 **Inspiration**:
- at the moment, in digital ecosystems, freedom of expression and immutability of that franchise, are rights left to the mercy of an arbitrary centre. it is not that you  be beyond reproach in a digital conclave, but simply that the truth of your words, may /etch in eternity- especially if you are doing it at the risk of exile ! 
+at the moment, in digital ecosystems, freedom of expression and immutability of that franchise, are rights left to the mercy of an arbitrary centre. it is not that you  be beyond reproach in a digital conclave, but simply that the truth of your words, may /etch in eternity- especially if you are doing it at the risk of exile ! 
 
  **abstract**:
  
