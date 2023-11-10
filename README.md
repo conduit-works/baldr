@@ -14,7 +14,7 @@ Pilot Discord Server : https://discord.gg/rpmS2sXX
 
 
 ## Baldr (Beta Vesion)
-Baldr is the Public Goods Censorship Resistance Protocol,Built on Arwearve Blockchain as intermediatry platform between social media and premenanat storage, Censorship resistance is an essential aspect of maintaining freedom of expression and access to information. It ensures that individuals can freely express their opinions and ideas without fear of censorship or suppression. By promoting censorship resistance as a public good, we can protect the fundamental principles of democracy and foster an open and inclusive society.
+Baldr is the Public Goods Censorship Resistance Protocol,Built on Arwearve Blockchain as intermediatry platform between social media and permanent storage, Censorship resistance is an essential aspect of maintaining freedom of expression and access to information. It ensures that individuals can freely express their opinions and ideas without fear of censorship or suppression. By promoting censorship resistance as a public good, we can protect the fundamental principles of democracy and foster an open and inclusive society.
 
 ## Architechture
 ![alt text](https://raw.githubusercontent.com/conduit-works/baldr/main/img/architecture.png "Architechture")
