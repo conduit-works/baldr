@@ -12,27 +12,27 @@ Pilot Discord Server : https://discord.gg/rpmS2sXX
 
 
 ## Baldr (Beta Vesion)
-Baldr is the Public Goods Censorship Resistance Protocol,Censorship resistance is an essential aspect of maintaining freedom of expression and access to information. It ensures that individuals can freely express their opinions and ideas without fear of censorship or suppression. By promoting censorship resistance as a public good, we can protect the fundamental principles of democracy and foster an open and inclusive society.
+Baldr is the Public Goods Censorship Resistance Protocol,Built on Arwearve Blockchain as intermediatry platform between social media and premenanat storage, Censorship resistance is an essential aspect of maintaining freedom of expression and access to information. It ensures that individuals can freely express their opinions and ideas without fear of censorship or suppression. By promoting censorship resistance as a public good, we can protect the fundamental principles of democracy and foster an open and inclusive society.
 
 ## Architechture
 ![alt text](https://raw.githubusercontent.com/conduit-works/baldr/main/img/architecture.png "Architechture")
 
+![alt text2](https://raw.githubusercontent.com/conduit-works/baldr/main/img/view.jpg "view")
 
 ## Instructions
 
-1. Install Discord Bot : "Still in development"
-2. or Join Existing Server : "https://discord.gg/HjMz8Sdz" [Conduit.works Discord]
-3. use [Discords Command](https://github.com/conduit-works/baldr/tree/main#discord-commands)
-4. visit https://templofbaldr.ar
-5. search your username to see blockchain stored conversation
+1. Join Existing Server : "https://discord.gg/HjMz8Sdz" [Conduit.works Discord]
+2. use [Discords Command](https://github.com/conduit-works/baldr/tree/main#discord-commands)
+3. visit https://templofbaldr.ar
+4. search your username to see blockchain stored conversation
 
 
 
 ## Discord Commands
 
-- `/Etch       `: Store 1 previous message by caller (of caller) 
-- `/Timeneedle `: Store previous x number of messages in channel (all user)
-- `/Start      `: Start recording conversation in channel until stop button in clicked
+- `/etch       `: Store 1 previous message by caller (of caller) 
+- `/timeneedle `: Store previous x number of messages in channel (all user)
+- `/start      `: Start recording conversation in channel until stop button in clicked
 
 
 ## Setup and Development Instruction
