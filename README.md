@@ -1,4 +1,4 @@
-Baldr is product build in PermaHack 2023 Hackathon
+Baldr is our submission to permahacks 23 
 
 https://github.com/conduit-works/baldr/assets/37915069/400e6829-37b7-441a-ba3f-3650c47f435b
 
