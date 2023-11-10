@@ -50,9 +50,7 @@ Baldr is the Public Goods Censorship Resistance Protocol,Built on Arwearve Block
 3. curl -X GET "https://api.mem.tech/api/state/:contract_addr"
 
 ### Frontend Deployment [/frontend]
-1. ...
-2. ...
-3. ...
+1. `npm start` inside folder
 
 ## Techstack
 
