@@ -1,8 +1,8 @@
 Baldr is product build in PermaHack 2023 Hackathon
 
-[![Watch the video](https://logowik.com/content/uploads/images/discord8706.jpg)](https://youtu.be/W8kQuZiGZ1A)
+https://github.com/conduit-works/baldr/assets/37915069/400e6829-37b7-441a-ba3f-3650c47f435b
 
-
+\
 Website     : https://pc2kmcarscfrqxvfsfafnk4fr6c6jd7nixocj5pd3wszvixlclqq.arweave.net/eLSmCBGQixhepZFAVquFj4Xkj-1F3CT1492lmqLrEuE/ \
 \
 Frontend design  : https://www.figma.com/file/2fESMm3xP4da4F17ipdnms/Untitled?type=design&node-id=0%3A1&mode=design&t=7CPncCXlzXZNMzMh-1  \
