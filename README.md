@@ -1,4 +1,4 @@
-![3](https://github.com/conduit-works/baldr/assets/150352117/b060ad54-deaa-42cc-9369-1b5eb6b5ef0a)Baldr is our submission to permahacks 23 
+Baldr is our submission to permahacks 23 
 
 https://github.com/conduit-works/baldr/assets/37915069/400e6829-37b7-441a-ba3f-3650c47f435b
 
@@ -35,7 +35,7 @@ for trust to evolve in digital ecosystems, the immutability of certain human val
 
 ![alt text2](https://raw.githubusercontent.com/conduit-works/baldr/main/img/view.jpg "view")
 
-![3](https://github.com/conduit-works/baldr/assets/150352117/e821adff-1706-446f-ae03-cd653f14c7af)
+
 
 ## **Instructions**
 
