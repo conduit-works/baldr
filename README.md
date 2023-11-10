@@ -1,4 +1,4 @@
-Baldr is our submission to permahacks 23 
+![3](https://github.com/conduit-works/baldr/assets/150352117/b060ad54-deaa-42cc-9369-1b5eb6b5ef0a)Baldr is our submission to permahacks 23 
 
 https://github.com/conduit-works/baldr/assets/37915069/400e6829-37b7-441a-ba3f-3650c47f435b
 
@@ -29,6 +29,8 @@ for trust to evolve in digital ecosystems, the immutability of certain human val
 ![alt text](https://raw.githubusercontent.com/conduit-works/baldr/main/img/architecture.png "Architechture")
 
 ![alt text2](https://raw.githubusercontent.com/conduit-works/baldr/main/img/view.jpg "view")
+
+![3](https://github.com/conduit-works/baldr/assets/150352117/e821adff-1706-446f-ae03-cd653f14c7af)
 
 ## **Instructions**
 
@@ -80,12 +82,12 @@ for trust to evolve in digital ecosystems, the immutability of certain human val
 
 ![2](https://github.com/conduit-works/baldr/assets/150352117/517ed889-8b84-426a-b413-0cfbf97124f0)
 
-![3](https://github.com/conduit-works/baldr/assets/150352117/eab15819-a424-4dbe-92af-918932079055)
+
 
 
 ## Future scope
 
 - Encyption on data with a key for private discussion
     - discord [input key] (encyption) ----> arweave ---->  templofbalr.ar [input] (decryption to show chat)
-
-- Platform Expansion with discourse (forum) and the rest of digital social platforms (telegram, twitter)
+- Platform Expansion with discourse (forum) and telegram.
+- integrations to conduit works
