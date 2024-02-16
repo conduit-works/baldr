@@ -24,7 +24,6 @@ Baldr is the Censorship Resistance tool for digital channels of communication an
 **Inspiration**:
 In most digital ecosystems, freedom of expression and immutability of that franchise, are rights left to the mercy of an arbitrary centre. it is not that you be beyond reproach in a digital conclave, but simply that the truth of your words, may /etch in eternity- especially if you are doing it at the risk of exile !
 
-![inspiration](https://github.com/conduit-works/baldr/assets/150352117/8b0e4781-6445-4bdb-a441-95ea419122ff)
 
 
  **abstract**:
